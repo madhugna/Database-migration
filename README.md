@@ -27,3 +27,8 @@ After the import was completed, we tested everything to make sure the migration 
 Overall, this manual method helped us understand the differences between MySQL and PostgreSQL, and gave us full control over the migration process. It’s a great approach when you want to learn how things work under the hood or when you can't use external tools. At the end of this task, we had a fully working PostgreSQL database with all the original data from MySQL safely migrated.
 
 This task also helped us improve our SQL skills, get comfortable with database commands, and understand how to handle compatibility issues between different database systems. The deliverables for this task include the original SQL dump file, the edited version for PostgreSQL, a step-by-step migration report, and screenshots or output of SQL queries that confirm the migration was successful.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/8fb52317-75b8-471e-a46a-49f4a3fc9f08)
+
